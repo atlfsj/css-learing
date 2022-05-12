@@ -131,7 +131,9 @@ border-box width = 内容宽度 + padding + border
 
 border-box更好用；同时指定padding，width，border就知道了
 <font color="red">面试答法：css盒模型有两种，一种是content-box另一种是border-box，区别是content-box宽度只包含content；而border-box的宽度包含到border，内边距，内容(去除border的两像素：outline)</font>
-<img src=4.jpg>
+
+<img src="imgs/hemoxing.jpg">
+<img src="4.jpg">
 
 * margin合并    
     1. 哪些情况会合并：父子margin；兄弟margin
